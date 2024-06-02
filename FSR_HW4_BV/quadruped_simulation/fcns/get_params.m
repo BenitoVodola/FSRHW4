@@ -59,7 +59,7 @@ end
 
 
 %% Physical Parameters
-p.mass = 5.5;
+p.mass = 1;
 p.J = diag([0.026,0.112,0.075]);
 p.g = 9.81;
 p.mu = 1;       % friction coefficient
